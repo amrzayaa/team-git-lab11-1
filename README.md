@@ -3,4 +3,4 @@
 Team Lead : Амарзаяа
 Developer: Гүлдан
 
-Update README.md by lead
+Update README.md by developer
